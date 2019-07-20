@@ -136,3 +136,19 @@
 
 </dir>
 
+
+<dir>
+
+     <name>[COLOR gold][B]>>>Addon Heisenberg<<<[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
