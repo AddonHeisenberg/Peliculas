@@ -1,4 +1,3 @@
-
 <dir>
 
      <name>[COLOR lime][B]Addon Heisenberg[/B][/COLOR]</name>
@@ -14,7 +13,6 @@
      <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
 
 </dir>
-
 
 <item>
 <title>Dumbo</title>
@@ -91,7 +89,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>Jurassic World 2</title>
 <meta>
@@ -106,8 +103,6 @@
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTvJIUF8SZ-F78g131t1f22wHKfE_CCdy4ESu0WyYmXSvEqUJ14</thumbnail>
 <fanart></fanart>
 </item>
-
-
 
 <item>
 <title>La Forma Del Agua</title>
@@ -139,9 +134,6 @@
 <fanart></fanart>
 </item>
 
-
-
-
 <item>
 <title>Gladiator</title>
 <meta>
@@ -158,7 +150,6 @@
 <thumbnail>http://cineblog.net/wp-content/uploads/GLADIATOR-Ridley-Scott-2000-Gladiator.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title>Alpha</title>
@@ -177,8 +168,6 @@
 <fanart></fanart>
 </item>
 
-
-
 <item>
 <title>Juego De Ladrones</title>
 <meta>
@@ -195,7 +184,6 @@
 <thumbnail>https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2018/10/29/11/137971030.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title>Megalodon</title>
@@ -214,8 +202,6 @@
 <fanart></fanart>
 </item>
 
-
-
 <item>
 <title>Accident Man</title>
 <meta>
@@ -232,9 +218,6 @@
 <thumbnail>https://pics.filmaffinity.com/accident_man-340755698-large.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
-
-
 
 <item>
 <title>BraveHeart</title>
@@ -253,7 +236,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>V3nganza</title>
 <meta>
@@ -270,7 +252,6 @@
 <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Video71/v4/85/1c/82/851c823f-271e-877f-21ef-766b29f3a3a6/mzm.gjakfclu.lsr/268x0w.png</thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title>V3nganza 2</title>
@@ -289,7 +270,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>V3nganza 3</title>
 <meta>
@@ -307,8 +287,6 @@
 <fanart></fanart>
 </item>
 
-
-
 <item>
 <title>V3nganza 3</title>
 <meta>
@@ -325,8 +303,6 @@
 <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Video71/v4/85/1c/82/851c823f-271e-877f-21ef-766b29f3a3a6/mzm.gjakfclu.lsr/268x0w.png</thumbnail>
 <fanart></fanart>
 </item>
-
-
 
 <item>
 <title>Point Break</title>
@@ -345,8 +321,6 @@
 <fanart></fanart>
 </item>
 
-
-
 <item>
 <title>Milla</title>
 <meta>
@@ -363,8 +337,6 @@
 <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Video71/v4/85/1c/82/851c823f-271e-877f-21ef-766b29f3a3a6/mzm.gjakfclu.lsr/268x0w.png</thumbnail>
 <fanart></fanart>
 </item>
-
-
 
 <item>
 <title>Sicario El Día Del Soldado</title>
@@ -468,7 +440,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>El Justiciero </title>
 <meta>
@@ -486,7 +457,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>Gringo </title>
 <meta>
@@ -503,7 +473,6 @@
 <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Video71/v4/85/1c/82/851c823f-271e-877f-21ef-766b29f3a3a6/mzm.gjakfclu.lsr/268x0w.png</thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title>Game Over </title>
@@ -554,10 +523,6 @@
 <fanart></fanart>
 </item>
 
-
-
-
-
 <item>
 <title>Jurassic World 2</title>
 <meta>
@@ -588,7 +553,6 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>El Filo Del Mañana</title>
 <meta>
@@ -603,7 +567,6 @@
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTvJIUF8SZ-F78g131t1f22wHKfE_CCdy4ESu0WyYmXSvEqUJ14</thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title>Un Lugar Tranquilo </title>
@@ -620,8 +583,6 @@
 <fanart></fanart>
 </item>
 
-
-
 <item>
 <title>Aniquilación</title>
 <meta>
@@ -636,5 +597,3 @@
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTvJIUF8SZ-F78g131t1f22wHKfE_CCdy4ESu0WyYmXSvEqUJ14</thumbnail>
 <fanart></fanart>
 </item>
-
-
