@@ -9,23 +9,7 @@
      <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
 <dir>
 
-     <name>[COLOR lime][B]Addon Heisenberg[/B][/COLOR]</name>
-
-     <link>Addon</link>
-<dir>
-
-     <name>[COLOR lime][B]Addon Heisenberg[/B][/COLOR]</name>
-
-     <link>Addon</link>
-
-     <animated_thumbnail></animated_thumbnail>
-
-     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
-
-     <animated_fanart></animated_fanart>
-
-     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
-
+<items>
 
 <item><title></title><meta><content>movie</content>
 <imdb></imdb>
@@ -6653,3 +6637,7 @@ En medio del caos en que se ha convertido su vida, su mejor amiga Lola le anunci
 <title>.*?</title>
 <year>2019</year></meta><title>El Revolver Maldito</title>
 <genre></genre><year></year><info>Serie de TV, de 44 capítulos (1997-1999), ambientada en el oeste americano Cada capítulo es independiente de los demás. Un revólver misterioso pasa de mano en mano y trae buena o mala suerte a quien lo posee. </info><thumbnail>https://i.ytimg.com/vi/PfN7sDi-psY/maxresdefault.jpg</thumbnail><link><sublink>https://youtu.be/aqVziutv0m0(PREMIUM)</sublink><sublink></sublink><sublink></sublink></link></item>
+
+
+</items>
+
