@@ -3,11 +3,17 @@
 
 
 <item>
-<name>[COLOR lime]•[/COLOR] Amor en obras </name>
+<title>[COLOR lime]•[/COLOR] Amor en obras 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/825LhrTs6Go/Am0rObr4s.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6LCDTL4FA</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/825LhrTs6Go/Am0rObr4s.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6LCDTL4FA(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/XT0Jq2u.jpg<thumbnail>
 <fanart>https://i.imgur.com/IL7mvJd.png</fanart>
@@ -17,11 +23,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] After. Aquí empieza todo </name>
+<title>[COLOR lime]•[/COLOR] After. Aquí empieza todo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/dX1BRcm3YG/Aft3r.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5RTMBJ6SH</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/dX1BRcm3YG/Aft3r.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5RTMBJ6SH(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/mJ5Y6lC.jpg<thumbnail>
 <fanart>https://i.imgur.com/F5kuiTK.jpg</fanart>
@@ -31,10 +43,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] A pesar de todo </name>
+<title>[COLOR lime]•[/COLOR] A pesar de todo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4QGG5L0AD</sublink>
-<sublink>http://streamcloud.eu/0o2texe307sn/Ap3sarT0do.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4QGG5L0AD(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/0o2texe307sn/Ap3sarT0do.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/PLh67p1.jpg<thumbnail>
 <fanart>https://i.imgur.com/cIc0Hvu.jpg</fanart>
@@ -45,11 +63,17 @@
 
 
 <item>
-<name>[COLOR lime]•[/COLOR] Alita: Ángel de combate </name>
+<title>[COLOR lime]•[/COLOR] Alita: Ángel de combate 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/hQg88U38QFh/Al1ta.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G4P4Z0NWD6</sublink>
-<sublink>http://streamcloud.eu/07w9tgq9ho9e/A11taAng3lD3C0mbat3.mkv.html</sublink>
+<sublink>https://verystream.com/stream/hQg88U38QFh/Al1ta.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G4P4Z0NWD6(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/07w9tgq9ho9e/A11taAng3lD3C0mbat3.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/rkOP4iS.jpg<thumbnail>
 <fanart>https://i.imgur.com/FYAhh9S.jpg</fanart>
@@ -59,11 +83,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Bellezonismo </name>
+<title>[COLOR lime]•[/COLOR] Bellezonismo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/HuCE8xrTYzJ/B3ll3z0n1smo.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6GZF85SVX</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/HuCE8xrTYzJ/B3ll3z0n1smo.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6GZF85SVX(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/nJPWozs.jpg<thumbnail>
 <fanart>https://i.imgur.com/mv9nnn0.jpg</fanart>
@@ -73,11 +103,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Boi </name>
+<title>[COLOR lime]•[/COLOR] Boi 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/RLiAfQ6C93n/B01.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5JQ84EF05</sublink>
-<sublink>http://streamcloud.eu/3p0wke7i3z8m/B01.mkv.html</sublink>
+<sublink>https://verystream.com/stream/RLiAfQ6C93n/B01.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5JQ84EF05(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/3p0wke7i3z8m/B01.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/aJfnN3l.jpg<thumbnail>
 <fanart>https://i.imgur.com/HuZAFeQ.jpg</fanart>
@@ -87,11 +123,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Bosque maldito </name>
+<title>[COLOR lime]•[/COLOR] Bosque maldito 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/bd6PZhCVXsp/B0squeM4ldito.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G59BOXVDC2</sublink>
-<sublink>http://streamcloud.eu/qbuj02ex41n8/B0squeM4ldito.mkv.html</sublink>
+<sublink>https://verystream.com/stream/bd6PZhCVXsp/B0squeM4ldito.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G59BOXVDC2(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/qbuj02ex41n8/B0squeM4ldito.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/Cd2JrBe.jpg<thumbnail>
 <fanart>https://i.imgur.com/SjFe6DX.jpg</fanart>
@@ -101,10 +143,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Beats </name>
+<title>[COLOR lime]•[/COLOR] Beats 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4LMCZ0UAF</sublink>
-<sublink>http://streamcloud.eu/1wxrcz5ln857/B3ats.m.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4LMCZ0UAF(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/1wxrcz5ln857/B3ats.m.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/ZZZtVIs.jpg<thumbnail>
 <fanart>https://i.imgur.com/99dAmFR.jpg</fanart>
@@ -114,11 +162,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El caballero de las sombras </name>
+<title>[COLOR lime]•[/COLOR] El caballero de las sombras 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/rrARQfRdjh/cab4lleroS0mbr4.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6LCDQZRPX</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/rrARQfRdjh/cab4lleroS0mbr4.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6LCDQZRPX(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/VxYasaT.jpg<thumbnail>
 <fanart>https://i.imgur.com/gFh3yb5.jpg</fanart>
@@ -128,11 +182,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Capsized: Blood in the water (TV) </name>
+<title>[COLOR lime]•[/COLOR] Capsized: Blood in the water (TV) 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/btwGNprjjwf/Caps1z3d.avi.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G60M3DC8MN</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/btwGNprjjwf/Caps1z3d.avi.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G60M3DC8MN(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/nOcqeP9.jpg<thumbnail>
 <fanart>https://i.imgur.com/mm38Xeh.png</fanart>
@@ -142,11 +202,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Campamento alienígena </name>
+<title>[COLOR lime]•[/COLOR] Campamento alienígena 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/iLegRR6YMCM/C4mpam3ntA113n1g3na.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5MR13P845</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/iLegRR6YMCM/C4mpam3ntA113n1g3na.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5MR13P845(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/n4ITqAj.jpg<thumbnail>
 <fanart>https://i.imgur.com/ZIDSMOL.jpg</fanart>
@@ -156,11 +222,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Critters ¡Al ataque! (TV) </name>
+<title>[COLOR lime]•[/COLOR] Critters ¡Al ataque! (TV) 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/PjzEjU1ULrV/Cr1t3rsAt4qu3.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5JR5XTX17</sublink>
-<sublink>http://streamcloud.eu/czyf5u5wvxbp/Cr1t3rsAt4qu3.mkv.html</sublink>
+<sublink>https://verystream.com/stream/PjzEjU1ULrV/Cr1t3rsAt4qu3.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5JR5XTX17(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/czyf5u5wvxbp/Cr1t3rsAt4qu3.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/9lEsxYz.jpg<thumbnail>
 <fanart>https://i.imgur.com/WkuEOw3.jpg</fanart>
@@ -170,11 +242,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Corgi: Las mascotas de la reina </name>
+<title>[COLOR lime]•[/COLOR] Corgi: Las mascotas de la reina 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/Syrhae21cTA/C0rg11a5Ma5c0ta5D31aR31na.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G50599GES0</sublink>
-<sublink>http://streamcloud.eu/onpjr2zondbh/C0rg11a5Ma5c0ta5D31aR31na.mkv.html</sublink>
+<sublink>https://verystream.com/stream/Syrhae21cTA/C0rg11a5Ma5c0ta5D31aR31na.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G50599GES0(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/onpjr2zondbh/C0rg11a5Ma5c0ta5D31aR31na.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/Cq0Qeuv.jpg<thumbnail>
 <fanart>https://i.imgur.com/8aVGHjD.jpg</fanart>
@@ -184,10 +262,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Capitana Marvel </name>
+<title>[COLOR lime]•[/COLOR] Capitana Marvel 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4P54SR3XW</sublink>
-<sublink>http://streamcloud.eu/jmy648wmrzer/Cap1tanaMarv3l.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4P54SR3XW(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/jmy648wmrzer/Cap1tanaMarv3l.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/KHIMKqu.jpg<thumbnail>
 <fanart>https://i.imgur.com/O0IhiC4.jpg</fanart>
@@ -197,10 +281,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Cripto </name>
+<title>[COLOR lime]•[/COLOR] Cripto 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4SJZ18PWD</sublink>
-<sublink></sublink>
+<sublink>https://www.rapidvideo.com/v/G4SJZ18PWD(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/UlpvF0x.jpg<thumbnail>
 <fanart>https://i.imgur.com/eppNQZC.jpg</fanart>
@@ -210,10 +300,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Cementerio de animales </name>
+<title>[COLOR lime]•[/COLOR] Cementerio de animales 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4SKE38DZX</sublink>
-<sublink>http://streamcloud.eu/tont9z757zpp/C3m3nter1oAn1m.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4SKE38DZX(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/tont9z757zpp/C3m3nter1oAn1m.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/wa9SuhG.jpg<thumbnail>
 <fanart>https://i.imgur.com/QO2dBXU.jpg</fanart>
@@ -223,10 +319,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Criminales en el mar </name>
+<title>[COLOR lime]•[/COLOR] Criminales en el mar 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4P4Q2X434</sublink>
-<sublink>http://streamcloud.eu/sy8r78ck23of/Cr1m1nal3s3n3lMar.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4P4Q2X434(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/sy8r78ck23of/Cr1m1nal3s3n3lMar.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/mESDF8J.jpg<thumbnail>
 <fanart>https://i.imgur.com/LztP8Se.jpg</fanart>
@@ -236,10 +338,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Cómo entrenar a tu dragón 3 </name>
+<title>[COLOR lime]•[/COLOR] Cómo entrenar a tu dragón 3 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4STDBTVL7</sublink>
-<sublink>http://streamcloud.eu/cscu1zojqsdq/Como_Entrenar_A_Tu_Dragon_3__BluRay_Rip__AC3_2.0_Castellano__2019_.avi.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4STDBTVL7(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/cscu1zojqsdq/Como_Entrenar_A_Tu_Dragon_3__BluRay_Rip__AC3_2.0_Castellano__2019_.avi.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/HO9o5AY.jpg<thumbnail>
 <fanart>https://i.imgur.com/PwVysMA.jpg</fanart>
@@ -253,11 +361,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Dolor y gloria </name>
+<title>[COLOR lime]•[/COLOR] Dolor y gloria 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/G7MXW8GvqSo/D0lorGl0ria.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G55ZNGQOG1</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/G7MXW8GvqSo/D0lorGl0ria.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G55ZNGQOG1(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/8reFl0X.jpg<thumbnail>
 <fanart>https://i.imgur.com/PCyg85a.jpg</fanart>
@@ -267,11 +381,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Dumbo </name>
+<title>[COLOR lime]•[/COLOR] Dumbo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/VsAwrZMTQfw/Dmb0.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G55JNCO4CI</sublink>
-<sublink>http://streamcloud.eu/m21m4tae3594/Dmb0.mkv.html</sublink>
+<sublink>https://verystream.com/stream/VsAwrZMTQfw/Dmb0.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G55JNCO4CI(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/m21m4tae3594/Dmb0.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/IUwV8o6.jpg<thumbnail>
 <fanart>https://i.imgur.com/hgcIuXH.jpg</fanart>
@@ -281,11 +401,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Deadwood: La película </name>
+<title>[COLOR lime]•[/COLOR] Deadwood: La película 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink></sublink>
-<sublink>https://www.rapidvideo.com/v/G5BIG8IE5I</sublink>
-<sublink>http://streamcloud.eu/qc9gyo1gyy21/D3adw00d.mkv.html</sublink>
+<sublink>(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5BIG8IE5I(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/qc9gyo1gyy21/D3adw00d.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/Sl8adAu.jpg<thumbnail>
 <fanart>https://i.imgur.com/xo4b1Ka.jpg</fanart>
@@ -295,11 +421,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Deadwood: La película [COLOR yellow]V.O[/COLOR] </name>
+<title>[COLOR lime]•[/COLOR] Deadwood: La película [COLOR yellow]V.O[/COLOR] 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/SKm3wHgk9Mv/D3adw00d.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G50218ZIJ3</sublink>
-<sublink>http://streamcloud.eu/bpk3bzod0lo5/D3adw00d.mkv.html</sublink>
+<sublink>https://verystream.com/stream/SKm3wHgk9Mv/D3adw00d.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G50218ZIJ3(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/bpk3bzod0lo5/D3adw00d.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/Sl8adAu.jpg<thumbnail>
 <fanart>https://i.imgur.com/xo4b1Ka.jpg</fanart>
@@ -309,10 +441,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Doom: Annihilation [COLOR lime]CORRIGIENDO ENLACE[/COLOR] </name>
+<title>[COLOR lime]•[/COLOR] Doom: Annihilation [COLOR lime]CORRIGIENDO ENLACE[/COLOR] 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink></sublink>
-<sublink>http://streamcloud.eu/z58wboyp498n</sublink>
+<sublink>(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/z58wboyp498n(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/eZQBgDP.jpg<thumbnail>
 <fanart>https://i.imgur.com/U8XWVNJ.jpg</fanart>
@@ -322,11 +460,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El hijo </name>
+<title>[COLOR lime]•[/COLOR] El hijo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/Cbvn1qBYp77/3lH1j00.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G60LN048A8</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/Cbvn1qBYp77/3lH1j00.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G60LN048A8(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/bcgaaBc.jpg<thumbnail>
 <fanart>https://i.imgur.com/AbgmWxf.jpg</fanart>
@@ -336,11 +480,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El parque mágico </name>
+<title>[COLOR lime]•[/COLOR] El parque mágico 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/j1oyerWsLQQ/P4rqueM4g1co.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G60JXSQKIZ</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/j1oyerWsLQQ/P4rqueM4g1co.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G60JXSQKIZ(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/Qi0YHSe.jpg<thumbnail>
 <fanart>https://i.imgur.com/oIeEZvS.jpg</fanart>
@@ -350,11 +500,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El día que vendrá </name>
+<title>[COLOR lime]•[/COLOR] El día que vendrá 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/4Nyf2pBUEqM/D1aV3ndran.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5O6MK6REA</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/4Nyf2pBUEqM/D1aV3ndran.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5O6MK6REA(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/7eHLoiq.jpg<thumbnail>
 <fanart>https://i.imgur.com/bmgN2nB.jpg</fanart>
@@ -364,11 +520,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El secuestro de Stella </name>
+<title>[COLOR lime]•[/COLOR] El secuestro de Stella 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/J3seprVPxSx/Secu3stroSt3lla.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G56FK315O3</sublink>
-<sublink>http://streamcloud.eu/gkyj6n3d2i4q/Secu3stroSt3lla.mkv.html</sublink>
+<sublink>https://verystream.com/stream/J3seprVPxSx/Secu3stroSt3lla.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G56FK315O3(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/gkyj6n3d2i4q/Secu3stroSt3lla.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/1XhmSvf.jpg<thumbnail>
 <fanart>https://i.imgur.com/HTy6CqQ.png</fanart>
@@ -378,11 +540,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El niño que pudo ser rey </name>
+<title>[COLOR lime]•[/COLOR] El niño que pudo ser rey 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/HCWQRMCfLEF/N1n0R3y.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G56F89NZ1I</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/HCWQRMCfLEF/N1n0R3y.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G56F89NZ1I(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/I1kAIYu.jpg<thumbnail>
 <fanart>https://i.imgur.com/m1EATxu.jpg</fanart>
@@ -392,11 +560,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El caballero de las sombras </name>
+<title>[COLOR lime]•[/COLOR] El caballero de las sombras 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/BeB4qL34z8/Cab4llS0mbra5.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G55JITBZWQ</sublink>
-<sublink>http://streamcloud.eu/i476h2ieal6e/Cab4llS0mbra5.mkv.html</sublink>
+<sublink>https://verystream.com/stream/BeB4qL34z8/Cab4llS0mbra5.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G55JITBZWQ(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/i476h2ieal6e/Cab4llS0mbra5.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/mOyvCYq.jpg<thumbnail>
 <fanart></fanart>
@@ -406,10 +580,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Extremadamente cruel, malvado y perverso </name>
+<title>[COLOR lime]•[/COLOR] Extremadamente cruel, malvado y perverso 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4W8O1Q38V</sublink>
-<sublink>http://streamcloud.eu/7w5impqfbi2n/3xtr3madam3nteCru3l.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4W8O1Q38V(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/7w5impqfbi2n/3xtr3madam3nteCru3l.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/xUs5fja.jpg<thumbnail>
 <fanart>https://i.imgur.com/ZziQIfb.jpg</fanart>
@@ -419,10 +599,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Emboscada final </name>
+<title>[COLOR lime]•[/COLOR] Emboscada final 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4W5MA0EXD</sublink>
-<sublink></sublink>
+<sublink>https://www.rapidvideo.com/v/G4W5MA0EXD(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/JBxNSED.jpg<thumbnail>
 <fanart>https://i.imgur.com/UZakTwQ.png</fanart>
@@ -432,10 +618,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Escape Room: Sin salida </name>
+<title>[COLOR lime]•[/COLOR] Escape Room: Sin salida 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/e/G2DMFH5ZJY</sublink>
-<sublink>http://streamcloud.eu/e89892bwturl/3scap3R00m.avi.html</sublink>
+<sublink>https://www.rapidvideo.com/e/G2DMFH5ZJY(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/e89892bwturl/3scap3R00m.avi.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/xnnBQe8.jpg<thumbnail>
 <fanart>https://i.imgur.com/SdTtSTD.jpg</fanart>
@@ -445,10 +637,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] El Canto del Lobo </name>
+<title>[COLOR lime]•[/COLOR] El Canto del Lobo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4LO5BDRGO</sublink>
-<sublink>http://streamcloud.eu/94an2bqa2q8b/3lCant0D3lL0b0.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4LO5BDRGO(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/94an2bqa2q8b/3lCant0D3lL0b0.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/OKM6ZX1.jpg<thumbnail>
 <fanart>https://i.imgur.com/U4lvLst.jpg</fanart>
@@ -458,10 +656,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Feliz día de tu muerte 2 </name>
+<title>[COLOR lime]•[/COLOR] Feliz día de tu muerte 2 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G3YRPFB1PK</sublink>
-<sublink>http://streamcloud.eu/yep6aub3f7z6/F3l1zD1aD3TuMu3rt32.avi.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G3YRPFB1PK(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/yep6aub3f7z6/F3l1zD1aD3TuMu3rt32.avi.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/A88vhZU.jpg<thumbnail>
 <fanart>https://i.imgur.com/JeSSknY.jpg</fanart>
@@ -471,10 +675,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Feedback </name>
+<title>[COLOR lime]•[/COLOR] Feedback 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4LO05JZSY</sublink>
-<sublink>http://streamcloud.eu/idvz9otbn9ap/F3db4ck..mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4LO05JZSY(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/idvz9otbn9ap/F3db4ck..mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/yFRL9P0.jpg<thumbnail>
 <fanart>https://i.imgur.com/8BSfnwn.jpg</fanart>
@@ -484,10 +694,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Glass </name>
+<title>[COLOR lime]•[/COLOR] Glass 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G3LAYNK5PM</sublink>
-<sublink>http://streamcloud.eu/a42a9li2j18k/G1a55.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G3LAYNK5PM(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/a42a9li2j18k/G1a55.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/NwjBNtD.jpg<thumbnail>
 <fanart>https://i.imgur.com/GbC78PM.jpg</fanart>
@@ -497,10 +713,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Hijo nativo </name>
+<title>[COLOR lime]•[/COLOR] Hijo nativo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4SYSFVNWR</sublink>
-<sublink>http://streamcloud.eu/qhwvb50ih2v0/H1j0Nat1v0.avi.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4SYSFVNWR(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/qhwvb50ih2v0/H1j0Nat1v0.avi.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/yoa8eZC.jpg<thumbnail>
 <fanart>https://i.imgur.com/tSK7slT.jpg</fanart>
@@ -522,11 +744,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] IO </name>
+<title>[COLOR lime]•[/COLOR] IO 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/FKSiRiMNyEa/I0.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G57OEN6AXC</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/FKSiRiMNyEa/I0.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G57OEN6AXC(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/8I7oB9K.jpg<thumbnail>
 <fanart>https://i.imgur.com/kamrxIK.jpg</fanart>
@@ -536,10 +764,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] I Am Mother </name>
+<title>[COLOR lime]•[/COLOR] I Am Mother 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4XHM0OC0I</sublink>
-<sublink>http://streamcloud.eu/bev6z6042479/1AmM0th3r.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4XHM0OC0I(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/bev6z6042479/1AmM0th3r.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/MLEZ7DN.jpg<thumbnail>
 <fanart>https://i.imgur.com/PPty13J.jpg</fanart>
@@ -549,11 +783,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] John Wick: Capítulo 3 - Parabellum </name>
+<title>[COLOR lime]•[/COLOR] John Wick: Capítulo 3 - Parabellum 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink></sublink>
-<sublink>https://www.rapidvideo.com/v/G62RWN57G0</sublink>
-<sublink></sublink>
+<sublink>(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G62RWN57G0(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/fsAIuuT.jpg<thumbnail>
 <fanart>https://i.imgur.com/QWw4skf.jpg</fanart>
@@ -563,11 +803,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Kim Possible (TV) </name>
+<title>[COLOR lime]•[/COLOR] Kim Possible (TV) 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/MEKf9aCrJtY/K1m.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G5MOSTJHHX</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/MEKf9aCrJtY/K1m.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5MOSTJHHX(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/652CVGk.jpg<thumbnail>
 <fanart>https://i.imgur.com/ZqEWTGg.jpg</fanart>
@@ -577,11 +823,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Lo dejo cuando quiera </name>
+<title>[COLOR lime]•[/COLOR] Lo dejo cuando quiera 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/L4MDDVXE5qn/D3joCu4ndoQu1era.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6QJCE59ZL</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/L4MDDVXE5qn/D3joCu4ndoQu1era.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6QJCE59ZL(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/rjHs8Uv.jpg<thumbnail>
 <fanart>https://i.imgur.com/T1vPl4l.jpg</fanart>
@@ -591,11 +843,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] La intervención </name>
+<title>[COLOR lime]•[/COLOR] La intervención 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/WMEHP4LYntn/Int3rv3ncion.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6LBAB8U4O</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/WMEHP4LYntn/Int3rv3ncion.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6LBAB8U4O(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/ihEIP4k.jpg<thumbnail>
 <fanart>https://i.imgur.com/aYfNbUJ.jpg</fanart>
@@ -605,11 +863,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] La pequeña Suiza </name>
+<title>[COLOR lime]•[/COLOR] La pequeña Suiza 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/hL2GLX1hKd5/Pequen1aSu1za.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G65F419IFP</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/hL2GLX1hKd5/Pequen1aSu1za.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G65F419IFP(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/At1QagJ.jpg<thumbnail>
 <fanart>https://i.imgur.com/DC8Wxtu.jpg</fanart>
@@ -619,11 +883,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] La Llorona </name>
+<title>[COLOR lime]•[/COLOR] La Llorona 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/FWZfCMkxwvk/L4Ll0r0na.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5QAXYS92H</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/FWZfCMkxwvk/L4Ll0r0na.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5QAXYS92H(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/UwwmwZ9.jpg<thumbnail>
 <fanart>https://i.imgur.com/tURiJUp.jpg</fanart>
@@ -633,11 +903,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] La hija del lobo </name>
+<title>[COLOR lime]•[/COLOR] La hija del lobo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/GfjpfBGAxur/H1jaL0b0.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5IDJB6651</sublink>
-<sublink>http://streamcloud.eu/oxobnwgodnof/H1jaL0b0.mkv.html</sublink>
+<sublink>https://verystream.com/stream/GfjpfBGAxur/H1jaL0b0.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5IDJB6651(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/oxobnwgodnof/H1jaL0b0.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/VYcdR28.jpg<thumbnail>
 <fanart>https://i.imgur.com/NtsZLNg.jpg</fanart>
@@ -647,11 +923,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] La hija del lobo [COLOR yellow]V.O[/COLOR]</name>
+<title>[COLOR lime]•[/COLOR] La hija del lobo [COLOR yellow]V.O[/COLOR]
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/DLKvjGQsY5w/H1jaL0b0.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G5BJGBK4MH</sublink>
-<sublink>http://streamcloud.eu/ye4rcwntclor/H1jaL0b0.mkv.html</sublink>
+<sublink>https://verystream.com/stream/DLKvjGQsY5w/H1jaL0b0.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5BJGBK4MH(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/ye4rcwntclor/H1jaL0b0.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/VYcdR28.jpg<thumbnail>
 <fanart>https://i.imgur.com/NtsZLNg.jpg</fanart>
@@ -661,10 +943,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] La Protectora </name>
+<title>[COLOR lime]•[/COLOR] La Protectora 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4SYTX2WHL</sublink>
-<sublink>http://streamcloud.eu/0bwid6v3waeu/LaPr0t3ct0ra.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4SYTX2WHL(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/0bwid6v3waeu/LaPr0t3ct0ra.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w154/rdah0UpjZmy8OAsSuYWVz1aMH7L.jpg<thumbnail>
 <fanart>https://i.imgur.com/PCYKaeL.jpg</fanart>
@@ -681,11 +969,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Más que madres </name>
+<title>[COLOR lime]•[/COLOR] Más que madres 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/FXj72VbbEhi/M4sM4dres.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5O6IOKTIB</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/FXj72VbbEhi/M4sM4dres.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5O6IOKTIB(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/z7ZVVMG.jpg<thumbnail>
 <fanart>https://i.imgur.com/hI02Wbs.jpg</fanart>
@@ -695,11 +989,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Más allá de la esperanza </name>
+<title>[COLOR lime]•[/COLOR] Más allá de la esperanza 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/jJJbFhj3vTN/Esp3ranz4.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G5CLP75U58</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/jJJbFhj3vTN/Esp3ranz4.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5CLP75U58(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/KOtgW2I.jpg<thumbnail>
 <fanart>https://i.imgur.com/9eDjHjz.jpg</fanart>
@@ -709,10 +1009,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Miss Bala </name>
+<title>[COLOR lime]•[/COLOR] Miss Bala 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4SL602OTH</sublink>
-<sublink>http://streamcloud.eu/85whvlng79bh/Miss.Bala.DVD.XviD._www.DivxTotaL.com_.avi.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4SL602OTH(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/85whvlng79bh/Miss.Bala.DVD.XviD._www.DivxTotaL.com_.avi.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/nWmd7QG.jpg<thumbnail>
 <fanart>https://i.imgur.com/Pon3cCr.jpg</fanart>
@@ -722,10 +1028,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Money Trap </name>
+<title>[COLOR lime]•[/COLOR] Money Trap 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4SYQEU8EE</sublink>
-<sublink>http://streamcloud.eu/jmim4751374d/Money_Trap__BluRay_Rip_720p_X264_MKV__AC3_5.1_Castellano_-_Italiano_-_Sub_ES__2019_.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4SYQEU8EE(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/jmim4751374d/Money_Trap__BluRay_Rip_720p_X264_MKV__AC3_5.1_Castellano_-_Italiano_-_Sub_ES__2019_.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/gZ3R6m4.jpg<thumbnail>
 <fanart>https://i.imgur.com/2AAABK2.jpg</fanart>
@@ -738,10 +1050,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Nosotros </name>
+<title>[COLOR lime]•[/COLOR] Nosotros 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4ZM61G4PE</sublink>
-<sublink>https://verystream.com/stream/9ymVq5SAiFB/N0s0tr05.mkv.mp4</sublink>
+<sublink>https://www.rapidvideo.com/v/G4ZM61G4PE(PREMIUM)</sublink>
+<sublink>https://verystream.com/stream/9ymVq5SAiFB/N0s0tr05.mkv.mp4(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/wkOdAvj.jpg</thumbnail>
 <fanart>https://i.imgur.com/XIMVbeW.jpg</fanart>
@@ -751,11 +1069,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Nancy Drew y la escalera escondida </name>
+<title>[COLOR lime]•[/COLOR] Nancy Drew y la escalera escondida 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/aZHekTVZ3wG/N4ncyDr3w.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G56F4988BL</sublink>
-<sublink>http://streamcloud.eu/mn5f2mrngb2j/N4ncyDr3w.mkv.html</sublink>
+<sublink>https://verystream.com/stream/aZHekTVZ3wG/N4ncyDr3w.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G56F4988BL(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/mn5f2mrngb2j/N4ncyDr3w.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/spOtROK.jpg<thumbnail>
 <fanart>https://i.imgur.com/CrEzmrr.jpg</fanart>
@@ -765,10 +1089,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Nuestro último verano </name>
+<title>[COLOR lime]•[/COLOR] Nuestro último verano 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/e/G2T8W5L5O8</sublink>
-<sublink>http://streamcloud.eu/ncw8ko305t5b/Nu3str0U1t1m0V3ran0.avi.html</sublink>
+<sublink>https://www.rapidvideo.com/e/G2T8W5L5O8(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/ncw8ko305t5b/Nu3str0U1t1m0V3ran0.avi.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/pk3wvr0.jpg<thumbnail>
 <fanart>https://i.imgur.com/NQnPF94.jpg</fanart>
@@ -778,11 +1108,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Pokémon: Detective Pikachu </name>
+<title>[COLOR lime]•[/COLOR] Pokémon: Detective Pikachu 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/4vEhYzSa8Xu/P0k3m0n.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6DAV7LLTI</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/4vEhYzSa8Xu/P0k3m0n.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6DAV7LLTI(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/arHtDat.jpg<thumbnail>
 <fanart>https://i.imgur.com/vZufFR0.jpg</fanart>
@@ -792,11 +1128,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Peleando en familia </name>
+<title>[COLOR lime]•[/COLOR] Peleando en familia 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/MauzWVN55hS/P3l3andoF4mil1a.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5O550CTPV</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/MauzWVN55hS/P3l3andoF4mil1a.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5O550CTPV(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/hJLUI4s.jpg<thumbnail>
 <fanart>https://i.imgur.com/svufHYT.jpg</fanart>
@@ -806,11 +1148,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Pequeño gran problema </name>
+<title>[COLOR lime]•[/COLOR] Pequeño gran problema 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/CxQ4xBrXoyk/P3qun1oPr0bl3ma.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G5CLR2MKMS</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/CxQ4xBrXoyk/P3qun1oPr0bl3ma.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5CLR2MKMS(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/LiRXTSy.jpg<thumbnail>
 <fanart>https://i.imgur.com/zxpzRtO.jpg</fanart>
@@ -820,11 +1168,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Point Blank: Cuenta atrás </name>
+<title>[COLOR lime]•[/COLOR] Point Blank: Cuenta atrás 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/WSLymFEEsLq/P0intBl4ck.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G56FLJUOXG</sublink>
-<sublink>http://streamcloud.eu/hp1n8x4072ju/P0intBl4ck.mkv.html</sublink>
+<sublink>https://verystream.com/stream/WSLymFEEsLq/P0intBl4ck.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G56FLJUOXG(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/hp1n8x4072ju/P0intBl4ck.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/1EZqBWV.jpg<thumbnail>
 <fanart>https://i.imgur.com/njnmpE4.jpg</fanart>
@@ -834,10 +1188,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Perdiendo el este </name>
+<title>[COLOR lime]•[/COLOR] Perdiendo el este 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G3YRBXJ7L4</sublink>
-<sublink>http://streamcloud.eu/53xglejkhotx/P3rdi3ste.m1080p.Castellano.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G3YRBXJ7L4(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/53xglejkhotx/P3rdi3ste.m1080p.Castellano.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/dYCLn7O.jpg<thumbnail>
 <fanart>https://i.imgur.com/f0yiOdA.jpg</fanart>
@@ -847,11 +1207,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Sextillizos </name>
+<title>[COLOR lime]•[/COLOR] Sextillizos 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/4pkHE8ntAQu/S3xt1ll1z0s.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G65F5PP7YN</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/4pkHE8ntAQu/S3xt1ll1z0s.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G65F5PP7YN(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/eCDz4vL.jpg<thumbnail>
 <fanart>https://i.imgur.com/jT42Zko.jpg</fanart>
@@ -861,11 +1227,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Sin piedad </name>
+<title>[COLOR lime]•[/COLOR] Sin piedad 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/2LyYe4XsRAx/S1nP1ed4d.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G642S7PUAG</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/2LyYe4XsRAx/S1nP1ed4d.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G642S7PUAG(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/j1ML3Ix.jpg<thumbnail>
 <fanart>https://i.imgur.com/Kw6cH1C.jpg</fanart>
@@ -875,11 +1247,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Share </name>
+<title>[COLOR lime]•[/COLOR] Share 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/86SpWAdvzsT/5har3.avi</sublink>
-<sublink>https://www.rapidvideo.com/v/G5XNZN0IWP</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/86SpWAdvzsT/5har3.avi(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5XNZN0IWP(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/aZdx1yz.jpg<thumbnail>
 <fanart>https://i.imgur.com/1tKYqHB.jpg</fanart>
@@ -889,11 +1267,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Secret Obsession </name>
+<title>[COLOR lime]•[/COLOR] Secret Obsession 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/dtmNdskBybT/S3cretObs3ssion.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G593XK0GNY</sublink>
-<sublink>http://streamcloud.eu/7kwemukyehw2/S3cretObs3ssion.mkv.html</sublink>
+<sublink>https://verystream.com/stream/dtmNdskBybT/S3cretObs3ssion.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G593XK0GNY(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/7kwemukyehw2/S3cretObs3ssion.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/m3geuAF.jpg<thumbnail>
 <fanart>https://i.imgur.com/9fyRJ3H.jpg</fanart>
@@ -903,11 +1287,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] ¡Shazam! </name>
+<title>[COLOR lime]•[/COLOR] ¡Shazam! 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/8yj17BCw9wZ/5h4z4m.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G55KOGCE0D</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/8yj17BCw9wZ/5h4z4m.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G55KOGCE0D(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/X6N5O3w.jpg<thumbnail>
 <fanart>https://i.imgur.com/srE251U.jpg</fanart>
@@ -917,10 +1307,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Shaft </name>
+<title>[COLOR lime]•[/COLOR] Shaft 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4RZHS3HC5</sublink>
-<sublink>http://streamcloud.eu/etz0m3owu1ih/Sh4rft.m1080p.Castellano.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4RZHS3HC5(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/etz0m3owu1ih/Sh4rft.m1080p.Castellano.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/DgUBE6G.jpg<thumbnail>
 <fanart>https://i.imgur.com/3NwMy4f.jpg</fanart>
@@ -930,11 +1326,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Taxi a Gibraltar </name>
+<title>[COLOR lime]•[/COLOR] Taxi a Gibraltar 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/4pVMh8ZqwaY/T4xiG1bralt4r.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5CL1YKBOA</sublink>
-<sublink>http://streamcloud.eu/phfi6s1wfkt8/T4xiG1bralt4r.mkv.html</sublink>
+<sublink>https://verystream.com/stream/4pVMh8ZqwaY/T4xiG1bralt4r.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5CL1YKBOA(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/phfi6s1wfkt8/T4xiG1bralt4r.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/A0TlZPi.jpg<thumbnail>
 <fanart>https://i.imgur.com/VEajIqU.jpg</fanart>
@@ -944,11 +1346,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] The Intruder </name>
+<title>[COLOR lime]•[/COLOR] The Intruder 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/hynyjNC8k5G/Th3Untrd3r.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G59DGOX8Y7</sublink>
-<sublink>http://streamcloud.eu/t0i4rgcwblje/Th3Untrd3r.mkv.html</sublink>
+<sublink>https://verystream.com/stream/hynyjNC8k5G/Th3Untrd3r.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G59DGOX8Y7(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/t0i4rgcwblje/Th3Untrd3r.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/afzUUsX.jpg<thumbnail>
 <fanart>https://i.imgur.com/eLR4FnX.jpg</fanart>
@@ -958,10 +1366,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] The Prodigy </name>
+<title>[COLOR lime]•[/COLOR] The Prodigy 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4P7S56JQH</sublink>
-<sublink>http://streamcloud.eu/vbzkitdq8kro/th3Pr0dig1.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4P7S56JQH(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/vbzkitdq8kro/th3Pr0dig1.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/jRXdGpJ.jpg<thumbnail>
 <fanart>https://i.imgur.com/ZzKx8HY.jpg</fanart>
@@ -971,11 +1385,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Robert Reborn </name>
+<title>[COLOR lime]•[/COLOR] Robert Reborn 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/ch4F5vpBx57/R0bertR3b0rnes.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5FLY9909F</sublink>
-<sublink>http://streamcloud.eu/7w0e4ncdiff0/R0bertR3b0rnes.mkv.html</sublink>
+<sublink>https://verystream.com/stream/ch4F5vpBx57/R0bertR3b0rnes.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5FLY9909F(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/7w0e4ncdiff0/R0bertR3b0rnes.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/eb0lPaN.jpg<thumbnail>
 <fanart>https://i.imgur.com/KNCeNJ0.jpg</fanart>
@@ -985,11 +1405,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Rescate en el Mar Rojo </name>
+<title>[COLOR lime]•[/COLOR] Rescate en el Mar Rojo 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/gNZ18U9Du5G/R3sc4t3R0j0.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5LZD6E82E</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/gNZ18U9Du5G/R3sc4t3R0j0.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5LZD6E82E(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/CIUVoS7.jpg<thumbnail>
 <fanart>https://i.imgur.com/i6VD0l9.jpg</fanart>
@@ -999,11 +1425,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Rocketman </name>
+<title>[COLOR lime]•[/COLOR] Rocketman 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/USfaiYwYfbD/R0ch3tm4n.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6DT7ZBA9R</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/USfaiYwYfbD/R0ch3tm4n.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6DT7ZBA9R(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/dnLedjK.jpg<thumbnail>
 <fanart>https://i.imgur.com/uHEA8BU.jpg</fanart>
@@ -1013,11 +1445,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Robert Reborn [COLOR yellow]V.O[/COLOR] </name>
+<title>[COLOR lime]•[/COLOR] Robert Reborn [COLOR yellow]V.O[/COLOR] 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/8ZFMJd3yXNU/R0bertR3b0rn.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5DORJK6UG</sublink>
-<sublink>http://streamcloud.eu/rxezrxh23u7w/R0bertR3b0rn.mkv.html</sublink>
+<sublink>https://verystream.com/stream/8ZFMJd3yXNU/R0bertR3b0rn.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5DORJK6UG(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/rxezrxh23u7w/R0bertR3b0rn.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/eb0lPaN.jpg<thumbnail>
 <fanart>https://i.imgur.com/KNCeNJ0.jpg</fanart>
@@ -1027,10 +1465,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Todo por mi hijo (TV) </name>
+<title>[COLOR lime]•[/COLOR] Todo por mi hijo (TV) 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4L1F6VMLZ</sublink>
-<sublink>http://streamcloud.eu/lhwsr51p6j4z/T0doH1joHDTV.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4L1F6VMLZ(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/lhwsr51p6j4z/T0doH1joHDTV.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/pOVAgo8.jpg</thumbnail>
 <fanart></fanart>
@@ -1040,10 +1484,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Uno más de la familia </name>
+<title>[COLOR lime]•[/COLOR] Uno más de la familia 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G4XEGMC9VJ</sublink>
-<sublink>http://streamcloud.eu/bnxzjo0kzevn/Un0MasD3aFam1l1a.mkv.html</sublink>
+<sublink>https://www.rapidvideo.com/v/G4XEGMC9VJ(PREMIUM)</sublink>
+<sublink>http://streamcloud.eu/bnxzjo0kzevn/Un0MasD3aFam1l1a.mkv.html(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/ryKtWQg.jpg<thumbnail>
 <fanart>https://i.imgur.com/wfPapjm.jpg</fanart>
@@ -1053,11 +1503,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Vengadores: Endgame </name>
+<title>[COLOR lime]•[/COLOR] Vengadores: Endgame 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/BJY174rta4V/V3nG4me.mkv.mp4</sublink>
-<sublink>https://www.rapidvideo.com/v/G66WF07FJG</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/BJY174rta4V/V3nG4me.mkv.mp4(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G66WF07FJG(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/8fVl7V2.jpg<thumbnail>
 <fanart>https://i.imgur.com/34XRG0C.jpg</fanart>
@@ -1067,11 +1523,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] Venganza bajo cero </name>
+<title>[COLOR lime]•[/COLOR] Venganza bajo cero 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink></sublink>
-<sublink>https://www.rapidvideo.com/v/G5RI1GBKZO</sublink>
-<sublink></sublink>
+<sublink>(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5RI1GBKZO(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/v1PPi7x.jpg<thumbnail>
 <fanart>https://i.imgur.com/AazbUL0.jpg</fanart>
@@ -1081,10 +1543,16 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] ¿en qué piensan los hombres? </name>
+<title>[COLOR lime]•[/COLOR] ¿en qué piensan los hombres? 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://www.rapidvideo.com/v/G3YRO9DVZM</sublink>
-<sublink></sublink>
+<sublink>https://www.rapidvideo.com/v/G3YRO9DVZM(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/s1o8O3A.jpg<thumbnail>
 <fanart>https://i.imgur.com/oR9l1OY.jpg</fanart>
@@ -1094,11 +1562,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] ¿Qué te juegas? </name>
+<title>[COLOR lime]•[/COLOR] ¿Qué te juegas? 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/EHhmt9T5eoY/Qu3T3Ju3ga5.avi</sublink>
-<sublink>https://www.rapidvideo.com/v/G5XNKC1MNZ</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/EHhmt9T5eoY/Qu3T3Ju3ga5.avi(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5XNKC1MNZ(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/uwBWx65.jpg<thumbnail>
 <fanart>https://i.imgur.com/yrAcSzo.jpg</fanart>
@@ -1108,11 +1582,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] ¿No es romántico? </name>
+<title>[COLOR lime]•[/COLOR] ¿No es romántico? 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/YHYY2WHhZMk/N035R0m4nt1c0.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G5ODS7JTCZ</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/YHYY2WHhZMk/N035R0m4nt1c0.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G5ODS7JTCZ(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/tNs8Snr.jpg<thumbnail>
 <fanart>https://i.imgur.com/7Hnpns2.jpg</fanart>
@@ -1122,11 +1602,17 @@
 </item>
 
 <item>
-<name>[COLOR lime]•[/COLOR] ¡Vaya clase! </name>
+<title>[COLOR lime]•[/COLOR] ¡Vaya clase! 
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>2019</year>
+</meta>
 <link>
-<sublink>https://verystream.com/stream/9Zg3MeirGoo/Qu1enR1e.mkv</sublink>
-<sublink>https://www.rapidvideo.com/v/G6LAVA8PME</sublink>
-<sublink></sublink>
+<sublink>https://verystream.com/stream/9Zg3MeirGoo/Qu1enR1e.mkv(PREMIUM)</sublink>
+<sublink>https://www.rapidvideo.com/v/G6LAVA8PME(PREMIUM)</sublink>
+<sublink>(PREMIUM)</sublink>
 </link>
 <thumbnail>https://i.imgur.com/B927M4K.jpg<thumbnail>
 <fanart>https://i.imgur.com/0mmh0LH.png</fanart>
@@ -1134,6 +1620,5 @@
 <year>2019</year>
 <info>Dos amigos ansiosos por presumir de su éxito ante antiguos abusones y amores de juventud pasarán una noche salvaje en una reunión de exalumnos.</info> 
 </item>
-
 
 
