@@ -1,17 +1,5 @@
-<dir>
 
-     <name>[COLOR lime][B]Addon Heisenberg[/B][/COLOR]</name>
-
-     <link>Addon</link>
-
-     <animated_thumbnail></animated_thumbnail>
-
-     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
-
-     <animated_fanart></animated_fanart>
-
-     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <item>
