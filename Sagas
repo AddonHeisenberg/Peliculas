@@ -48,3 +48,38 @@
      <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
 
 </dir>
+
+
+
+<dir>
+
+     <name>[COLOR gold][B]VENGADORES[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Vengadores</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
+
+
+<dir>
+
+     <name>[COLOR gold][B]Piratas Del Caribe[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/HP</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
