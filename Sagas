@@ -1,5 +1,21 @@
 <dir>
 
+     <name>[COLOR gold][B]Venganza (Taken)[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Venganza</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>http://i.pinimg.com/originals/d3/ba/e6/d3bae6fe5fd182ab263fd211dbefccd7.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>http://i.pinimg.com/originals/d3/ba/e6/d3bae6fe5fd182ab263fd211dbefccd7.jpg</fanart>
+
+</dir>
+
+<dir>
+
      <name>[COLOR gold][B]Ip Man[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Ip%20Man</link>
