@@ -1,5 +1,22 @@
 <dir>
 
+     <name>[COLOR gold][B]Ip Man[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Ip%20Man</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>http://1.bp.blogspot.com/-gmpz1xtW-q4/UimdCr816BI/AAAAAAAAF9s/iPaU5C-NHl4/s500/Ip+Man.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>http://1.bp.blogspot.com/-gmpz1xtW-q4/UimdCr816BI/AAAAAAAAF9s/iPaU5C-NHl4/s500/Ip+Man.jpg</fanart>
+
+</dir>
+
+
+<dir>
+
      <name>[COLOR gold][B]Arma Letal[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Arma%20Letal</link>
@@ -10,7 +27,7 @@
 
      <animated_fanart></animated_fanart>
 
-     <fanart>https://static.pelisplus.co/movie/cover/original/c110e96571f4d992bb6213206b35052b.jpgjpg</fanart>
+     <fanart>https://static.pelisplus.co/movie/cover/original/c110e96571f4d992bb6213206b35052b.jpg</fanart>
 
 </dir>
 
