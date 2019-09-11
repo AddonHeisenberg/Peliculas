@@ -33,7 +33,7 @@
 
 <dir>
 
-     <name>[COLOR gold][B]Arma Letal[/B][/COLOR]</name>
+     <name>[COLOR gold][B]Arma Letal (Lethal Weapon)[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Arma%20Letal</link>
 
@@ -100,7 +100,7 @@
 
 <dir>
 
-     <name>[COLOR gold][B]Vengadores[/B][/COLOR]</name>
+     <name>[COLOR gold][B]Vengadores (Avengers)[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Vengadores</link>
 
@@ -117,7 +117,8 @@
 
 <dir>
 
-     <name>[COLOR gold][B]PIRATAS DEL CARIBE[/B][/COLOR]</name>
+     <name>[COLOR gold][B]Piratas del caribe (Pirates of the Caribbean)
+[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Piratas</link>
 
