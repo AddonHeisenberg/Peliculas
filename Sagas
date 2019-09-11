@@ -49,7 +49,7 @@
 
 <dir>
 
-     <name>[COLOR gold][B]Insideous[/B][/COLOR]</name>
+     <name>[COLOR gold][B]Insidious[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Insidious</link>
 
@@ -100,23 +100,7 @@
 
 <dir>
 
-     <name>[COLOR gold][B]VENGADORES[/B][/COLOR]</name>
-
-     <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Vengadores</link>
-
-     <animated_thumbnail></animated_thumbnail>
-
-     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
-
-     <animated_fanart></animated_fanart>
-
-     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
-
-</dir>
-
-<dir>
-
-     <name>[COLOR gold][B]VENGADORES[/B][/COLOR]</name>
+     <name>[COLOR gold][B]Vengadores[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Sagas/master/Vengadores</link>
 
